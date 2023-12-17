@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: yeswanth25/pro06:latest
+          image: yeswanth25/kube25:latest
           imagePullPolicy: Always
